@@ -20,3 +20,5 @@ Petshop is a website that connects customers with pets, allowing them to explore
 3. Admin functionality for store staff to log in to the system, enabling them to add pet information and customer information.
     - The login credentials are the staff's phone number stored in the database. If a staff member enters the wrong password, an incorrect password message is displayed.
     - After successfully logging in, staff can add pet information and customer information (customer information is displayed at the bottom of the website).
+
+Product video URL: https://youtu.be/9f5UloN8mf4
